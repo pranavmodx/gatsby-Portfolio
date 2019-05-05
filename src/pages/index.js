@@ -44,7 +44,7 @@ class HomeIndex extends React.Component {
                             </ul>
                         <h2>Skills</h2>
                             <ul>
-                                <li>Languages : Python, JavaScript, C/C++</li>
+                                <li>Languages : Python and JavaScript</li>
                                 <li>Web Technologies : HTML, CSS, Bootstrap, JQuery</li>
                                 <li>Frameworks : Django, Flask, React, Electron</li>
                                 <li>Other Technologies : Gatsby</li>
